@@ -98,7 +98,7 @@ author_project_details:
                 project_description: 🚀 Agentic Scraper | Playwright + OpenAI ile Otomatik Web Veri Toplama (Python Örneği)
                 project_url: 
                 project_url_title: 
-                project_youtube_url: https://www.youtube.com/watch?v=62OEAVawHLw 
+                project_youtube_url: https://www.youtube.com/embed/62OEAVawHLw 
                 visibility: true
               - project_thumbnail: 
                 project_title: Yolov5nV6 Custom Model Traning and OpenCV CSRT Tracking Alorithm
