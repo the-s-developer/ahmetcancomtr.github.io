@@ -6,8 +6,12 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
+        {% if post.image %}
+          <div class="post-head-image" style="margin-bottom:16px;">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }} head image">
+          </div>
+        {% endif %}
         <h1>{{ post.title }}</h1>
-
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
@@ -15,7 +19,6 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
