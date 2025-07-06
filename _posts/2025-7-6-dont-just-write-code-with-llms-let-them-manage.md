@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Don’t Just Write Code with LLMs—Let Them Manage the Code Generation Process
+title: LLM'lerle Sadece Kod Yazmayın—Kod Üretim Sürecini Onlara Yönettirin
 categories: [AI, LLM, RAG, Tool, Architecture, Agentic AI,  Python, NLP , AI Tools, Backend, Prompt Engineering]
+excerpt: Kod yazdırmak, LLM’lerin potansiyelinin sadece küçük bir parçası. Kod üretim sürecini LLM’e bırakarak, güvenlik, verimlilik ve standartlaşmayı artırmak mümkün. Bu yazıda, LLM’leri geliştiricinin asistanı olarak konumlandırmanın neden daha sürdürülebilir bir yol olduğunu anlatıyoruz.
 image: /images/blog-1.jpeg
 ---
 
