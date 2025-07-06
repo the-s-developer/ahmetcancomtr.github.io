@@ -4,20 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Internetin yavaş olduğu o zamanlardan beri bu işi yapıyorum dediğimda insanlar biraz şaşırıyor, modemlerin melodik sesleriyle bağlandığı yıllardan beri kod yazıyorum. O günlerden bugüne teknoloji çok değişti, ben de değişen her dalgaya ayak uydurmayı başardım.
+Internetin 56k olduğu o zamanlardan beri bu işi yapıyorum dediğimda insanların bira şaşırıyor, modemlerin cızırtılı sesleriyle bağlanıldığı yıllardan beri kod yazıyorum. O günlerden bugüne teknoloji çok hızlı değişti, ben de değişen her dalgaya ayak uydurmayı başardım.
 
-Şu anda **Orion Innovation’da Senior Backend Developer** olarak çalışıyor; GSM Outdoors / StealthCam projesinde, yapay zekâ destekli kamera sistemlerinden gerçek zamanlı görüntü analitiğine kadar uzanan geniş bir yelpazede kod yazıyorum. Python, C#, Go ve Node.js arasında mekik dokuyorum. ML modelleriyle uğraşırken kimi zaman NVIDIA CUDA ile GPU’yu “terletiyor”, kimi zaman bulut servislerinde mikroservis mimarisi kuruyorum.
+Şu anda **Orion Innovation’da Senior Backend Developer** olarak çalışıyor; GSM Outdoors / StealthCam projesinde, yapay zekâ destekli kamera sistemlerinden gerçek zamanlı görüntü analitiğine kadar uzanan geniş bir yelpazede kod yazıyorum. 
+C#, GoLang, Python, NodeJS C/C++ hangi dil olduğu veya framework olduğu farketmez o anda çözüm ne gerekiyorsa onu kullanıyorum.
+Uzun süredir ML teknolojileri üzerinde çalışıyorum, kimi zaman NVIDIA CUDA ile GPU’yu “terletiyor”, kimi zaman cloud üzerinde mikroservis mimarisi kuruyorum.
 
 **Teknolojinin farklı alanlarında çalışmak benim için hep bir tutku oldu:**
 
-* Makine öğrenmesi ve akıllı ajanlar
-* Dağıtık sistemler, API’lar, bulut tabanlı altyapılar
-* Gerçek zamanlı uygulamalar ve veri akışı
-* Modern frontend ve mobil uygulamalar
+* Machine Learning  ve Agentic AI Automation
+* Distributed System, API’lar, Cloud Native infra
+* RealTime communications
+* Backend, Frontend, Mobile app 
 
-Tabii ki her işin eğlenceli bir yanı da var; yeni bir problemle karşılaşınca bazen kahvemi tazeleyip kodlara saatlerce haşir neşir olduğum çok oluyor. “Bir çözüm yolu mutlaka vardır” diyerek, hem öğrenmeye hem de üretmeye devam ediyorum.
+Bir çok konuda pratik olarak tecrübe kazandım. Bu da bir ürün geliştirken veya çetrefilli bir sorunu çözerken konuya çok farklı perspektiflerden yaklaşmama imkan tanıyor.
 
-Kısacası, yazılım ve teknolojide **yeni olan her şeye meraklı**, deneyime önem veren ve paylaşmayı seven biriyim. Umarım blogumda paylaştıklarım senin de işine yarar veya ilham verir.
+Tabii ki işimi çok seviyorum, yeni bir problemle karşılaşınca bazen kahvemi tazeleyip kodlara saatlerce haşir neşir olduğum çok oluyor. 
+
+Kısacası, yazılım ve teknolojide **yeni olan her şeye meraklı**, güncel ürünleri takip eden, yeni fikirler ve çözümler geliştirme konusunda kendini sürekli güncelleyen, deneyime önem veren ve paylaşmayı seven biriyim. Umarım blogumda paylaştıklarım senin de işine yarar veya ilham verir.
 
 Hoş geldin!
 
