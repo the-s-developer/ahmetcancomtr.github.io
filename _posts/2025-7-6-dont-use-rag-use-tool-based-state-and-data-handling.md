@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Don’t Use RAG – Use Tool-Based State and Data Handling"
+title: "RAG Kullanma – Tool Kullan"
 categories: [AI, LLM, RAG, Architecture, Agentic AI,  Python, NLP , AI Tools, State Management, Backend, Prompt Engineering]
-excerpt: Tool-based architectures are more reliable, scalable, and production-friendly than RAG when it comes to live data, normalization, and UI state management in LLM-powered applications.
+excerpt: Tool tabanlı mimariler, canlı veri, normalizasyon ve kullanıcı arayüzü durumu yönetimi söz konusu olduğunda, LLM tabanlı uygulamalarda RAG’e göre daha güvenilir, ölçeklenebilir ve üretime uygun bir çözümdür.
 image: /images/blog-2.png
 date: 2025-07-06
 ---
-# RAG Yerine Tool Tabanlı Veri Normalizasyonu ve State Güncelleme: Modern Uygulamalarda Daha Temiz Bir Yol
 
 Son yıllarda Retrieval-Augmented Generation (RAG), LLM destekli uygulamalarda en çok tercih edilen mimarilerden biri haline geldi. Ancak her senaryo RAG için uygun değil. Özellikle verilerin sürekli güncellendiği, normalize edilmesi gereken ve frontend state yönetimi ile entegre çalışan sistemlerde, doğrudan tool (araç) tabanlı bir yaklaşım çok daha verimli olabilir.
 
