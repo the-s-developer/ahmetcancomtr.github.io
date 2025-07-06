@@ -4,9 +4,26 @@ title: About
 permalink: /about/
 ---
 
-### Orion Innovation – *Senior Backend Developer*  
-**Dec 2023 – Present**
+Internetin yavaş olduğu o zamanlardan beri bu işi yapıyorum dediğimda insanlar biraz şaşırıyor, modemlerin melodik sesleriyle bağlandığı yıllardan beri kod yazıyorum. O günlerden bugüne teknoloji çok değişti, ben de değişen her dalgaya ayak uydurmayı başardım.
 
+Şu anda **Orion Innovation’da Senior Backend Developer** olarak çalışıyor; GSM Outdoors / StealthCam projesinde, yapay zekâ destekli kamera sistemlerinden gerçek zamanlı görüntü analitiğine kadar uzanan geniş bir yelpazede kod yazıyorum. Python, C#, Go ve Node.js arasında mekik dokuyorum. ML modelleriyle uğraşırken kimi zaman NVIDIA CUDA ile GPU’yu “terletiyor”, kimi zaman bulut servislerinde mikroservis mimarisi kuruyorum.
+
+**Teknolojinin farklı alanlarında çalışmak benim için hep bir tutku oldu:**
+
+* Makine öğrenmesi ve akıllı ajanlar
+* Dağıtık sistemler, API’lar, bulut tabanlı altyapılar
+* Gerçek zamanlı uygulamalar ve veri akışı
+* Modern frontend ve mobil uygulamalar
+
+Tabii ki her işin eğlenceli bir yanı da var; yeni bir problemle karşılaşınca bazen kahvemi tazeleyip kodlara saatlerce haşir neşir olduğum çok oluyor. “Bir çözüm yolu mutlaka vardır” diyerek, hem öğrenmeye hem de üretmeye devam ediyorum.
+
+Kısacası, yazılım ve teknolojide **yeni olan her şeye meraklı**, deneyime önem veren ve paylaşmayı seven biriyim. Umarım blogumda paylaştıklarım senin de işine yarar veya ilham verir.
+
+Hoş geldin!
+
+---
+
+### Orion Innovation – *Senior Backend Developer*  
 - **GSM Outdoors / StealthCam Project**  
   - 🧬 Machine Learning & Backend Development  
   - 🎯 Custom Dataset Preparation (Detectron2, Yolov)  
