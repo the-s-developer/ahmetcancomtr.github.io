@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LLM’e Her Şeyi Sormayın: Business Logic'i Dışarıda Tutun
+title: LLM’e Her Şeyi Sormayın Business Logic'i Dışarıda Tutun
 categories: [AI, LLM, Business Logic, Tool, Architecture, AI Tools, Backend, Prompt Engineering, Governance, System Design]
 excerpt: İş kurallarını LLM’e gömmek kontrolü ve denetlenebilirliği zorlaştırır. LLM, sadece yönlendirici olarak kullanılmalı; iş kuralları ise dış sistemlerde, test edilebilir ve sürdürülebilir şekilde yönetilmeli. Bu yazıda, en iyi pratikleri ele alıyoruz.
 image: /images/blog-6.png

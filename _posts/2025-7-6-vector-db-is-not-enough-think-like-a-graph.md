@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vector DB Her Derde Deva Değil: Bilgiyi ‘Graph’ Gibi Düşünün
+title: Vector DB Her Derde Deva Değil  Bilgiyi ‘Graph’ Gibi Düşünün
 categories: [AI, RAG, Vector DB, Knowledge Graph, Hybrid Retrieval, Architecture, NLP, Backend, Graph DB, Data Modeling, AI Tools]
 excerpt: RAG uygulamalarında sadece vektör tabanlı arama yeterli değil. Bilgiyi ilişkisel (graph) yapı olarak modellemek ve vektör, graph, SQL sorgularını hibrit olarak kullanmak, daha tutarlı ve anlamlı sonuçlar sunar. Bu yazıda, hibrit retrieval mimarisinin püf noktalarını ve pratik avantajlarını anlatıyoruz.
 image: /images/blog-4.png

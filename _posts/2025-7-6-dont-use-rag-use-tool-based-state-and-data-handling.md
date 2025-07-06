@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAG Kullanma – Tool Kullan"
+title: RAG Kullanma – Tool Kullan
 categories: [AI, LLM, RAG, Architecture, Agentic AI,  Python, NLP , AI Tools, State Management, Backend, Prompt Engineering]
 excerpt: Tool tabanlı mimariler, canlı veri, normalizasyon ve kullanıcı arayüzü durumu yönetimi söz konusu olduğunda, LLM tabanlı uygulamalarda RAG’e göre daha güvenilir, ölçeklenebilir ve üretime uygun bir çözümdür.
 image: /images/blog-2.png

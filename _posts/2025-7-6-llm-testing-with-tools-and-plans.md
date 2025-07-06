@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LLM Test Edilmez Sanmayın: Tool Tabanlı Sistemler Test Edilebilir
+title: LLM Test Edilmez Sanmayın Tool Tabanlı Sistemler Test Edilebilir
 categories: [AI, LLM, Testing, Tool, Architecture, Automation, AI Tools, Backend, Prompt Engineering, Quality Assurance]
 excerpt: LLM tabanlı sistemler genellikle black box gibi algılansa da, tool ve plan tabanlı mimariler sayesinde deterministik ve otomatik testler yazmak mümkün. Bu yazıda, LLM uygulamalarının test edilebilirliğini artırmanın yollarını anlatıyoruz.
 image: /images/blog-7.png
