@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Mixture of Experts ile Bilgiyi Sadece Vektör Olarak Değil, Graph Olarak da Modelle"
+title: "Mixture of Experts (uzmanların birleşimi)"
 categories: [AI, RAG, MixtureOfExperts, VectorDB, GraphDB, KnowledgeGraph, HybridRetrieval, DataModeling, NLP, Backend]
 excerpt: |
-  Sadece vektör tabanlı arama, karmaşık RAG uygulamalarında her zaman yeterli olmaz. Bilgiyi ilişkisel (graph) olarak modellemek ve Mixture of Experts (MoE) yaklaşımıyla vektör, graph ve SQL sorgularını hibrit biçimde bir araya getirmek; hem verimliliği artırır hem de daha bağlamsal ve anlamlı sonuçlar sunar. Bu yazıda, MoE mimarisinin temel prensiplerini, güçlü yanlarını ve pratik kullanım alanlarını inceliyoruz.
+    Günümüz yapay zekâ uygulamalarında, büyük ve karmaşık veriyle çalışmak için tek bir yöntem yeterli olmuyor. Mixture of Experts (Uzmanların Karışımı) mimarisi sayesinde, farklı uzman modeller bir araya gelerek hem vektör hem de ilişki tabanlı verilerde daha esnek ve anlamlı bilgi erişimi sağlanabiliyor. Bu yazıda, MoE yaklaşımının temellerini ve hibrit bilgi erişiminde sunduğu avantajları keşfediyoruz.
+
 image: /images/mixtureofexperts.png
 ---
 
